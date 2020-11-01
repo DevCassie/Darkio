@@ -1,24 +1,24 @@
 {
   "name": "darkio",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "description": "Official Darkio Theme for Visual Studio Code.",
-    "engines": {
-        "vscode": "^1.40.0"
-    },
-    "categories": [
-        "Themes"
-    ],
-	"publisher": "casmartens",
-	"public": true,
-    "contributes": {
-        "themes": [
-            {
-                "label": "Darkio",
-                "uiTheme": "vs-dark",
-                "path": "./themes/Darkio-color-theme.json"
-            }
-        ]
-    },
+  "engines": {
+    "vscode": "^1.40.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "publisher": "casmartens",
+  "public": true,
+  "contributes": {
+    "themes": [
+      {
+        "label": "Darkio",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Darkio-color-theme.json"
+      }
+    ]
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
