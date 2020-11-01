@@ -2,6 +2,15 @@
 
 All notable changes to the "Darkio" color theme will be documented in this file.
 
+## [Published]
+## V1.0.1 - 1-11-2020
+
+### Added
+- Started implementing a color guide.
+
+### Changes
+- Updated some minor colors.
+
 ## [Status]
 
 - Version: 0.2.0 Initial Release (unreleased);
