@@ -10,6 +10,7 @@ All notable changes to the "Darkio" color theme will be documented in this file.
 
 ### Changes
 - Updated some minor colors.
+- Updated readme.
 
 ## [Status]
 
