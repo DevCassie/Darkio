@@ -6,7 +6,7 @@
 		"editor.background": "#272929",
 		"editor.foreground": "#cfcfcf",
 		// Activity Badge.
-		"activityBarBadge.background": "#444747",
+		"activityBarBadge.background": "#2D7F9D",
 		"activityBarBadge.foreground": "#cfcfcf",
 		// Side bar.
 		"sideBarTitle.foreground": "#cfcfcf",
@@ -24,6 +24,7 @@
 		"list.inactiveSelectionBackground": "#222424",
 		// Title bar.
 		"titleBar.activeBackground": "#272929",
+		"titleBar.activeForeground": "#cfcfcf",
 		// Breadcrumb/tab window. 
 		"breadcrumb.background": "#272929",
 		"breadcrumb.foreground": "#cfcfcf",
