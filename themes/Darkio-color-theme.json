@@ -25,6 +25,9 @@
 		// Title bar.
 		"titleBar.activeBackground": "#272929",
 		"titleBar.activeForeground": "#cfcfcf",
+		// Panel Title
+		"panelTitle.activeForeground": "#2D7F9D",
+		"panelSectionHeader.foreground": "#cfcfcf",
 		// Breadcrumb/tab window. 
 		"breadcrumb.background": "#272929",
 		"breadcrumb.foreground": "#cfcfcf",
@@ -34,20 +37,29 @@
 		"breadcrumbPicker.background": "#272929",
 		// Dropdown.
 		"dropdown.background": "#272929",
+		"dropdown.foreground": "#cfcfcf",
 		// Dropdowns in settings.
 		"settings.dropdownBackground": "#272929",
+		"settings.dropdownForeground": "#cfcfcf",
 		// Checkboxes.
 		"checkbox.background": "#2D7F9D",
 		"checkbox.border": "#2D7F9D",
+		"checkbox.foreground": "#cfcfcf",
 		// Statusbar background.
 		"statusBar.background": "#222424",
+		"statusBar.foreground": "#cfcfcf",
+		"statusBar.debuggingBackground": "#2D7F9D",
+		"statusBar.debuggingForeground": "#cfcfcf",
 		// Folder tree view.
 		"tree.indentGuidesStroke": "#444747",
 		// Tab.
 		"tab.activeBackground": "#272929",
 		"tab.inactiveBackground": "#222424",
+		"tab.activeForeground": "#cfcfcf",
+		"tab.inactiveForeground": "#cfcfcf",
 		// GroupHeader.
 		"editorGroupHeader.tabsBackground": "#222424",
+		"editorGroupHeader.border": "#222424",
 		// Scrollbar.
 		"scrollbarSlider.background": "#2d7f9d57",
 		"scrollbarSlider.activeBackground": "#2d7f9d57",
@@ -55,6 +67,7 @@
 		"editorHoverWidget.background": "#222424",
 		// Debug Toolbar.
 		"debugToolBar.background": "#2e2e2e",
+		"debugIcon.breakpointForeground": "#2D7F9D",
 		// Search results highlighter.
 		"editor.findMatchBackground": "#222424",
 		// Search results matches highlighter.

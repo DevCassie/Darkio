@@ -1,6 +1,6 @@
 {
   "name": "darkio",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Official Darkio Theme for Visual Studio Code.",
     "engines": {
         "vscode": "^1.40.0"
