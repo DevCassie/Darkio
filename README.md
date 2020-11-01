@@ -5,13 +5,13 @@ Darkio is a theme based on the dark themes. It uses blue as a main tint. But it 
 ## Examples
 
 ### Full screen example
-<p align="center"><img src="./assets/Full_Screen_Example.png"></p>
+<p align="center"><img src="https://github.com/DevCassie/Darkio/blob/main/assets/Full_Screen_Example.png"></p>
 
 ### JavaScript example
-<p align="center"><img src="./assets/JavaScript_Example.png"></p>
+<p align="center"><img src="https://github.com/DevCassie/Darkio/blob/main/assets/JavaScript_Example.png"></p>
 
 ### JSON example
-<p align="center"><img src="./assets/JSON_Example.png"></p>
+<p align="center"><img src="https://github.com/DevCassie/Darkio/blob/main/assets/JSON_Example.png"></p>
 
 ### Information
 * Theme created by Cas Martens.
